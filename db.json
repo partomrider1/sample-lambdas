@@ -1,0 +1,128 @@
+[
+    {
+        "label": "Acknowledge and accept the ticket",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Validate alert on Opmanager",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Find IP address of Device from Inventory",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Attach artefact(s) (screenshot) & update ticket",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Cross check device is reachable",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Check connected LAN switch port",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    },
+    {
+        "label": "Take a screenshot from Opmanager",
+        "workflowInput": {
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco"
+          },
+          "workflowOutput":{
+            "incidentId": "INC0011732",
+            "ip_address": "172.16.222.3",
+            "server_type": "Switch",
+            "username": "cisco",
+            "password": "cisco",
+            "isValidAlarm": true
+          }        
+    }
+]
